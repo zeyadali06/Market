@@ -1,0 +1,135 @@
+﻿  Cart.cpp
+E:\Market_PDS\Market_PDS\Cart.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Market_PDS\Market_PDS\Cart.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Market_PDS\Market_PDS\Cart.cpp(104,10): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 1 has type 'T7'
+          with
+          [
+              T7=const char *
+          ]
+E:\Market_PDS\Market_PDS\Cart.cpp(38,117): message : see reference to function template instantiation 'void Cart::print_row<const char*,const char*,const char*,const char*,const char*,const char*,const char*,const char*>(T0,T1,T2,T3,T4,T5,T6,T7)' being compiled
+          with
+          [
+              T0=const char *,
+              T1=const char *,
+              T2=const char *,
+              T3=const char *,
+              T4=const char *,
+              T5=const char *,
+              T6=const char *,
+              T7=const char *
+          ]
+E:\Market_PDS\Market_PDS\Cart.cpp(102,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'T7'
+          with
+          [
+              T7=double
+          ]
+E:\Market_PDS\Market_PDS\Cart.cpp(55,69): message : see reference to function template instantiation 'void Cart::print_row<int,std::string,int,float,int,int,float,double>(T0,T1,T2,T3,T4,T5,T6,T7)' being compiled
+          with
+          [
+              T0=int,
+              T1=std::string,
+              T2=int,
+              T3=float,
+              T4=int,
+              T5=int,
+              T6=float,
+              T7=double
+          ]
+  CartManager.cpp
+E:\Market_PDS\Market_PDS\Cart.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Market_PDS\Market_PDS\Cart.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  customer.cpp
+E:\Market_PDS\Market_PDS\Cart.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Market_PDS\Market_PDS\Cart.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CustomerManager.cpp
+E:\Market_PDS\Market_PDS\Cart.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Market_PDS\Market_PDS\Cart.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  fileManager.cpp
+E:\Market_PDS\Market_PDS\Cart.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Market_PDS\Market_PDS\Cart.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Market_PDS.cpp
+E:\Market_PDS\Market_PDS\Cart.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Market_PDS\Market_PDS\Cart.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Parser.cpp
+E:\Market_PDS\Market_PDS\Cart.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Market_PDS\Market_PDS\Cart.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  person.cpp
+  product.cpp
+  productManager.cpp
+E:\Market_PDS\Market_PDS\productManager.cpp(27,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  registration.cpp
+E:\Market_PDS\Market_PDS\Cart.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Market_PDS\Market_PDS\Cart.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Screen.cpp
+E:\Market_PDS\Market_PDS\Cart.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Market_PDS\Market_PDS\Cart.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  seller.cpp
+  sellerManager.cpp
+E:\Market_PDS\Market_PDS\sellerManager.cpp(97,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Market_PDS\Market_PDS\sellerManager.cpp(383,11): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 1 has type 'T4'
+          with
+          [
+              T4=const char *
+          ]
+E:\Market_PDS\Market_PDS\sellerManager.cpp(113,71): message : see reference to function template instantiation 'void sellerManager::print_row<const char*,const char*,const char*,const char*,const char*>(T0,T1,T2,T3,T4)' being compiled
+          with
+          [
+              T0=const char *,
+              T1=const char *,
+              T2=const char *,
+              T3=const char *,
+              T4=const char *
+          ]
+E:\Market_PDS\Market_PDS\sellerManager.cpp(381,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'T4'
+          with
+          [
+              T4=double
+          ]
+E:\Market_PDS\Market_PDS\sellerManager.cpp(120,78): message : see reference to function template instantiation 'void sellerManager::print_row<int,std::string,int,std::string,double>(T0,T1,T2,T3,T4)' being compiled
+          with
+          [
+              T0=int,
+              T1=std::string,
+              T2=int,
+              T3=std::string,
+              T4=double
+          ]
+  Sorting.cpp
+E:\Market_PDS\Market_PDS\Sorting.cpp(15,10): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 1 has type 'T6'
+          with
+          [
+              T6=const char *
+          ]
+E:\Market_PDS\Market_PDS\Sorting.cpp(82,88): message : see reference to function template instantiation 'void Sorting::print_row<const char*,const char*,const char*,const char*,const char*,const char*,const char*>(T0,T1,T2,T3,T4,T5,T6)' being compiled
+          with
+          [
+              T0=const char *,
+              T1=const char *,
+              T2=const char *,
+              T3=const char *,
+              T4=const char *,
+              T5=const char *,
+              T6=const char *
+          ]
+E:\Market_PDS\Market_PDS\Sorting.cpp(13,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'T6'
+          with
+          [
+              T6=double
+          ]
+E:\Market_PDS\Market_PDS\Sorting.cpp(94,18): message : see reference to function template instantiation 'void Sorting::print_row<std::string,int,std::string,int,int,float,double>(T0,T1,T2,T3,T4,T5,T6)' being compiled
+          with
+          [
+              T0=std::string,
+              T1=int,
+              T2=std::string,
+              T3=int,
+              T4=int,
+              T5=float,
+              T6=double
+          ]
+  Generating Code...
+E:\Market_PDS\Market_PDS\Sorting.cpp(76): warning C4715: 'Sorting::toSort': not all control paths return a value
+E:\Market_PDS\Market_PDS\sellerManager.cpp(81): warning C4715: 'sellerManager::sellerOption': not all control paths return a value
+E:\Market_PDS\Market_PDS\Screen.cpp(41): warning C4715: 'Screen::loginAsOption': not all control paths return a value
+E:\Market_PDS\Market_PDS\CustomerManager.cpp(51): warning C4715: 'CustomerManager::customerOption': not all control paths return a value
+  Market_PDS.vcxproj -> E:\Market_PDS\x64\Debug\Market_PDS.exe

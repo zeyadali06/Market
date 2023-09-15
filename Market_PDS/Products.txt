@@ -1,0 +1,5 @@
+1|iphone_12|1.2|electronics|0|0|18.0167|8
+2|sunshine_Tuna|22.3|food&drinks|2|0|7.83333|4
+3|lenovo|333.839|electronics|8|1|10|3
+4|lenovo2|333.839|electronics|9|1|0|0
+18|test|199|books|1|6|0|0
